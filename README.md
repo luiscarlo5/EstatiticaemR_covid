@@ -8,7 +8,7 @@ Este projeto realiza uma análise estatística detalhada da evolução da COVID-
 
 O conjunto de dados é um arquivo `.csv` contendo estatísticas globais da COVID-19. Para esta análise, foram selecionados exclusivamente os registros do Afeganistão.
 
-**Fonte**: `[covid_dataset](https://www.kaggle.com/datasets/imdevskp/corona-virus-report?select=covid_19_clean_complete.csv)`
+**Fonte**: [covid_dataset](https://www.kaggle.com/datasets/imdevskp/corona-virus-report?select=covid_19_clean_complete.csv)
 
 ## 🔎 Preprocessamento
 Embora o foco da análise tenha sido exclusivamente o país Afeganistão, existem outros países nos dados trabalhados, por isso é bom se atentar ao código fonte que realiza a separação e análise temporal dos dados com base nas colunas de interesse aqui trabalhadas.
